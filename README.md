@@ -32,17 +32,17 @@ Users should be able to:
 
 #### Desktop design
 
-<img src="https://github.com/luizarilo/3-columns-preview-card/blob/master/images/desktop.png" alt="Desktop design"/>
+<img src="https://github.com/luizarilo/form-validation/blob/master/images/desktop_design.png" alt="Desktop design"/>
 
 #### Mobile design
 
-<img src="https://github.com/luizarilo/3-columns-preview-card/blob/master/images/mobile.png" alt="Mobile design"/>
+<img src="https://github.com/luizarilo/form-validation/blob/master/images/mobile_desktop.png" alt="Mobile design"/>
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository git](https://github.com/luizarilo/form-validation)
+- Live Site URL: [Netlify Site](coruscating-gnome-a74eaf.netlify.app)
 
 ## My process
 
